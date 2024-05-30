@@ -3,7 +3,7 @@
 - 👀 I’m interested in Game Programming
 - 🌱 I’m currently working on Multiplayer Roguelike Magic Shooter Game
 
-- 📭 [Email](sharipovadinag@gmail.com)
+- 📭 Email: sharipovadinag@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sharidi/)
 
 <!---
