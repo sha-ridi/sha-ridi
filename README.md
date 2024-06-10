@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Dina
-- 😄 Pronouns: she/her
 - 👀 I’m interested in Game Programming
 - 🌱 I’m currently working on Multiplayer Roguelike Magic Shooter Game
 
